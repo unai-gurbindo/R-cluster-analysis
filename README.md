@@ -1,4 +1,4 @@
-# Interactive R Analysis Repository
+# Interactive R Analysis
 
 ## Overview
 
