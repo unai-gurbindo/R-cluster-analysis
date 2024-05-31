@@ -1,6 +1,6 @@
 
 
-[joana.html](https://github.com/unai-gurbindo/R-cluster-analysis/blob/main/Codi2.0.html)
+[joana.html](https://htmlpreview.github.io/?https://github.com/unai-gurbindo/R-cluster-analysis/blob/main/Codi2.0.html)
 
 
 # Interactive R Analysis
